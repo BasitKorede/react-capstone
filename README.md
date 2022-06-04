@@ -52,7 +52,7 @@ Hurray!!! You are now good to go.
 ## Author 1
 
 - GitHub: [@githubhandle](https://github.com/BasitKorede)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Twitter: [@twitterhandle](https://twitter.com/basit_korede2)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/basit-korede/)
 
 ## 🤝 Contributing
