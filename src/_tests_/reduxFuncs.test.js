@@ -1,4 +1,4 @@
-import { countryAction, countryReducer } from '../redux/covidData';
+import { countryAction, countryReducer } from '../redux/CovidData';
 
 const covidData = {
   dates: {
