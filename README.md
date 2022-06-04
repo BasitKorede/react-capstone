@@ -4,6 +4,20 @@
 
 -Data provided by Financial Modeling Prep.
 
+## [Live Demo - Netlify](https://stellular-cannoli-3adc87.netlify.app//)
+<!-- ## [Live Demo ](https://deploy-preview-4--react-capstone-covid-app.netlify.app/) -->
+
+## Live Presentation Video
+
+[Link] (https://www.loom.com/share/be2894edeaad418cb85dc4e34b25b68)
+
+## Milestones completed:
+- Create a new React App using CRA.
+- Install app dependencies.
+- Build file structure for app.
+- Create routes and navigation in app.
+
+
 # ScreenShots
 
 cooming soon
@@ -25,7 +39,7 @@ coming soon
 ```
 to run the project locally, clone the project using the command
 
-`git clone https://github.com/Melaku05/Financial-Modeling.git`
+`git clone https://github.com/BasitKorede/react-capstone.git`
 
 cd Library
 
