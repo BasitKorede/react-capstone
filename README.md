@@ -1,8 +1,22 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Financial-Modeling
+## COVID-19 DATA
 
--Data provided by Financial Modeling Prep.
+- A project that gives daily update on covid-19 Cases, Deaths, and number of disgarched people.
+
+## [Live Demo - Netlify](https://stellular-cannoli-3adc87.netlify.app//)
+<!-- ## [Live Demo ](https://deploy-preview-4--react-capstone-covid-app.netlify.app/) -->
+
+## Live Presentation Video
+
+[Link] (https://www.loom.com/share/be2894edeaad418cb85dc4e34b25b68)
+
+## Milestones completed:
+- Create a new React App using CRA.
+- Install app dependencies.
+- Build file structure for app.
+- Create routes and navigation in app.
+
 
 # ScreenShots
 
@@ -25,7 +39,7 @@ coming soon
 ```
 to run the project locally, clone the project using the command
 
-`git clone https://github.com/Melaku05/Financial-Modeling.git`
+`git clone https://github.com/BasitKorede/react-capstone.git`
 
 cd Library
 
@@ -38,7 +52,7 @@ Hurray!!! You are now good to go.
 ## Author 1
 
 - GitHub: [@githubhandle](https://github.com/BasitKorede)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Twitter: [@twitterhandle](https://twitter.com/basit_korede2)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/basit-korede/)
 
 ## 🤝 Contributing
@@ -57,6 +71,7 @@ Give a ⭐️ if you like this project!
 - Microverse program
 - My standup team
 - Microverse team
+- Code Reviewer
 - My family's support
 
 ## 📝 License
