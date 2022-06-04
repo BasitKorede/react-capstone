@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Financial-Modeling
+## COVID-19 DATA
 
--Data provided by Financial Modeling Prep.
+- A project that gives daily update on covid-19 Cases, Deaths, and number of disgarched people.
 
 ## [Live Demo - Netlify](https://stellular-cannoli-3adc87.netlify.app//)
 <!-- ## [Live Demo ](https://deploy-preview-4--react-capstone-covid-app.netlify.app/) -->
@@ -71,6 +71,7 @@ Give a ⭐️ if you like this project!
 - Microverse program
 - My standup team
 - Microverse team
+- Code Reviewer
 - My family's support
 
 ## 📝 License
