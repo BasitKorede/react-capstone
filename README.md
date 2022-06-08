@@ -29,6 +29,7 @@ cooming soon
 - Router
 - JavaScript
 - linter
+- CSS
 
 ## Live Demo
 
